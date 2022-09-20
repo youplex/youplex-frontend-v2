@@ -28,6 +28,9 @@ code {
   }
   .bg-primary:hover{
     background-color:var(--hover-color);
+    color:white;
+    border:1px solid var(--primary-color);
+    
   }
   
 }

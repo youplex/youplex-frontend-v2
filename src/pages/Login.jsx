@@ -85,7 +85,7 @@ function Login() {
                 </div>
                 <button
                   type="submit"
-                  className="w-full text-md text-white text-gray-700 border-2 border-gray-900 shadow-md focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+                  className="w-full text-md text-white hover:bg-primary text-gray-700 border border-gray-900 transition-colors  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                 >
                 <span>
                     <img src={google_logo} className="inline-block h-6 bg-white mr-2 p-1" />
